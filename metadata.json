@@ -1,0 +1,6 @@
+{
+  "name": "IndexPulse — AI SEO Tools & Taxonomy Admin Suite",
+  "description": "100% Free AI-Powered SEO Tools Platform, Zero-Latency Client Utilities, Structured Gemini AI Engines, and Dynamic Taxonomy Admin Suite.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
